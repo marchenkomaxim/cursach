@@ -177,7 +177,7 @@ class Dot {
   }
 
   _belongsTo(gamer) {
-    return this._gamer == gamer;
+    return this._gamer === gamer;
   }
 }
 
@@ -199,11 +199,11 @@ class Counter {
   }
 
   get() {
-    if (this._counter == null) {
+    if (this._counter === null) {
       this._counter = 0;
     } else {
       this._counter++;
-      if (this._counter == this._length) {
+      if (this._counter === this._length) {
         this._counter = 0;
       }
     }
