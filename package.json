@@ -1,0 +1,22 @@
+{
+  "name": "kursova",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marchenkomaxim/cursach.git"
+  },
+  "keywords": [
+    "node.js"
+  ],
+  "author": "Marchenko Maxim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marchenkomaxim/cursach/issues"
+  },
+  "homepage": "https://github.com/marchenkomaxim/cursach#readme"
+}
